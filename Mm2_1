@@ -25,11 +25,11 @@ local Camera = workspace.CurrentCamera
 
 -- [ Weapon Names ] --
 local WeaponNames = {
-   Knife = {
+   Kn = {
 Index = "Murderer";
-Color = Color3.fromRGB(255, 0, 0)
+Color = Color3.mRGB(255, 0, 0)
 };
-Gun = {
+G = {
 Index = "Sheriff";
 Color = Color3.fromRGB(0, 0, 255)
 };
