@@ -1,1 +1,1 @@
-That's the total script I like
+# That's the total script I like
